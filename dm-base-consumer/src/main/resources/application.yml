@@ -46,4 +46,4 @@ feign:
     enabled: false
 
 serverSavePath:
-     \\usr\\local\\images\\
+      d://
