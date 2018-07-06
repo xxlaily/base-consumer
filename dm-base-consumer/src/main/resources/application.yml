@@ -47,3 +47,4 @@ feign:
 
 serverSavePath:
       d://
+moduleName: base_consumer
